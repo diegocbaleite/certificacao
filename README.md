@@ -1,4 +1,4 @@
-# Java SE 8 Programmer I (OCA)
+# Java SE 21 Programmer I (OCA)
 
 Repositório de estudos para a certificação **Oracle Certified Associate – Java SE 21 Programmer I**.
 
